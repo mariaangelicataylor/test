@@ -1,3 +1,3 @@
 TEST for latex 
 
-$p_c=2s$
+$`p_c=2s`$
